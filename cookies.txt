@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-queue.coinlist.co	TRUE	/	FALSE	1999999999	Queue-it	u=5ce011b4-112f-47a7-8a4d-e34c992f2bad
-queue.coinlist.co	TRUE	/	FALSE	1999999999	samesite	none
-
